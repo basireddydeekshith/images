@@ -9,6 +9,11 @@ import dbwhite from "@/app/assets/dbwhite (1).svg"
 import stock from "@/app/assets/stock.svg"
 import billed from "@/app/assets/billed.svg"
 import prof from "@/app/assets/prof.svg"
+import yeild from "@/app/assets/yeild.svg"
+import ad from "@/app/assets/ad.svg"
+import Data from "@/app/assets/Data.svg"
+import Audience from "@/app/assets/Audience.svg"
+
 
 export default function page() {
   return (
@@ -21,6 +26,12 @@ export default function page() {
 <Image src={stock}/>
 <Image src={prof}/>
 <Image src={billed}/>
+<Image src={qr}/>
+<Image src={yeild}/>
+<Image src={ad}/>
+<Image src={Data}/>
+<Image src={Audience}/>
+
 
 
     </div>
