@@ -4,6 +4,7 @@ import Globe from "@/app/assets/Globe.svg"
 import Bullet from "@/app/assets/bullet.svg"
 import dbBack1 from "@/app/assets/dbBack1.svg"
 import dbback2 from "@/app/assets/dbback2.svg"
+import dbback3 from "@/app/assets/dbback3.svg"
 import qr from "@/app/assets/qr.svg"
 import dbwhite from "@/app/assets/dbwhite (1).svg"
 import stock from "@/app/assets/stock.svg"
@@ -13,6 +14,7 @@ import yeild from "@/app/assets/yeild.svg"
 import ad from "@/app/assets/ad.svg"
 import Data from "@/app/assets/Data.svg"
 import Audience from "@/app/assets/Audience.svg"
+import Greentriangle from "@/app/assets/Greentriangle.svg"
 
 
 export default function page() {
@@ -31,6 +33,8 @@ export default function page() {
 <Image src={ad}/>
 <Image src={Data}/>
 <Image src={Audience}/>
+<Image src={dbback3}/>
+<Image src={Greentriangle}/>
 
 
 
